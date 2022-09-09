@@ -1,5 +1,5 @@
 [package]
-name = "fvm-zl"
+name = "fvm"
 description = "Filecoin Virtual Machine reference implementation"
 version = "3.0.0-alpha.1"
 license = "MIT OR Apache-2.0"
