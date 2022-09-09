@@ -1,11 +1,11 @@
 [package]
-name = "fvm"
+name = "fvm-zl"
 description = "Filecoin Virtual Machine reference implementation"
 version = "3.0.0-alpha.1"
 license = "MIT OR Apache-2.0"
 authors = ["Protocol Labs", "Filecoin Core Devs"]
 edition = "2021"
-repository = "https://github.com/filecoin-project/ref-fvm"
+repository = "https://github.com/XianLeiGirl/ref-fvm"
 keywords = ["filecoin", "web3", "wasm"]
 
 [lib]
